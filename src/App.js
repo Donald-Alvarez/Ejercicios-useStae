@@ -9,7 +9,7 @@ var Contador = () => {
 
   // Función para incrementar el contador
   var incrementarCont = () => {
-    setContador(contadora + 1);
+    setContador(contadora + 1 );
   }
 
   // Función para decrementar el contador
