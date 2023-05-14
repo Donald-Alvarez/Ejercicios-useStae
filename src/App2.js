@@ -20,7 +20,7 @@ function ListaDeElementos() {
 
   return (
     <div className='text-center'>
-     <h3>2️⃣-Crea una lista de elementos que se puedan agregar a travez de un formulario</h3>
+     <h3>2️⃣-Crea una lista de elementos que se puedan agregar a traves de un formulario</h3>
       <form onSubmit={handleSubmit}>
         
         <input
